@@ -1,0 +1,9 @@
+// get id of wall
+
+
+
+
+// With each bounce, increase the ball speed up to a maximum of 12px per step
+if speed < 12 speed += 0.1;
+
+direction += 2 - random(4);
